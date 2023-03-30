@@ -25,3 +25,7 @@ out/
 # Ignore any backup files
 *.bak
 *.swp
+
+# Ignore test-related files
+/coverage.data
+/coverage/
