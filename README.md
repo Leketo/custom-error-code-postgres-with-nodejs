@@ -1,4 +1,4 @@
-# NodeJS Product Example Project
+# NodeJS Custom Error Project
 
 This project is a basic example of using NodeJS with Sequelize ORM and PostgreSQL to create a product and handle errors.
 
